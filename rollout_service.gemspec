@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'grape-entity', '~> 0.5'
   spec.add_dependency 'rollout', '~> 2.4'
   spec.add_dependency 'require_all', '~> 2'
-  spec.add_dependency 'activesupport', '~> 5'
+  spec.add_dependency 'activesupport', '~> 4.1.0'
   spec.add_dependency 'active_attr', '~> 0.9'
 
   spec.add_development_dependency "bundler", "~> 1.13"
